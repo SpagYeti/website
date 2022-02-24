@@ -112,7 +112,7 @@
 /* WHAT IS A WITCHER PART 1? --------------------------------------------------------*/
 
 .bgimage1{
-    background-image: url("/images/homepage/img5.jpg");
+    background-image: url("img5.jpg");
     background-size:cover;
     background-position:top;
     height: 800px; 
@@ -235,7 +235,7 @@ h2 {font-family: 'Quicksand', sans-serif;
 /* WHAT IS A WITCHER PART 3 ----------------------------------------------*/
 
 .bgimage2 {
-    background-image: url("/images/homepage/img8.jpg");
+    background-image: url("img8.jpg");
     background-size:cover;
     background-position:top;
     height: 800px;
