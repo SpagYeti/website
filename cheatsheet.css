@@ -1,0 +1,79 @@
+/* This is how to add a comment */
+
+h1 {
+    display:flex;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    /* background-color: rgb(0, 0, 0,0.5); */
+    font-size: 80 px;
+    font-family: 'Roboto Serif', sans-serif;
+}
+
+/* * {
+    property: value;
+    property: vaue; */
+
+/* This * targets the ENTIRE html code  */
+
+/* body {
+    /* background-color: rgb(245, 245, 245); */
+    /* background-image: url("images/homepage/Witcherchillin.png");
+    margin: 0 px; */ /
+}
+/* This is how to add a BG colour to your webpage */
+
+.intro { 
+    display:flex;
+    justify-content: center;
+    font-family
+}
+/* This is how to target a class */
+
+.large {
+    font-size: 30 px;
+}
+
+.center {
+    text-align: center;
+}
+
+.maintitle {
+    display:flex;
+    justify-content: center;
+    
+    /* width:40%; */
+}
+
+/* img {
+    width: 30%;
+} */
+
+.blackbg {
+    background-color: rgb(0, 0, 0,0.5);
+}
+
+p {
+    font-family: 'Roboto Serif', sans-serif;
+    font-size:15px;
+    font-style: italic;
+    font-weight: 700;
+}
+
+
+#navbar {
+    background-color:rgba(0, 0, 0, 0.5);
+    height: 40px;
+    display: flex;
+    justify-content:center;
+    justify-content:space-evenly;
+    align-items: center;
+}
+
+#navbar a {
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#navbar a:hover{
+    color:red;
