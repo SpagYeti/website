@@ -1,5 +1,5 @@
 # Fan-themed Website for The 'WITCHER 3 VIDEO GAME'
-The website is a 'fan-site' dedicated to the over whelmingly successful video game: The witcher 3.
+The website is a 'fan-site' dedicated to the overwhelmingly successful video game: The witcher 3.
 
 ### IMPORTANT!
 This is my first ever attempt of making a website. Therefore, there is limited functionality and the subsidiary pages are severley lacking content.
