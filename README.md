@@ -3,7 +3,7 @@ The website is a 'fan-site' dedicated to the overwhelmingly successful video gam
 
 ### IMPORTANT!
 This is my first ever attempt of making a website. Therefore, there is limited functionality and the subsidiary pages are severley lacking content.
-Link to website: https://github.com/thebeebop/Website
+Link to website: https://thebeebop.github.io/Website/
 
 # Things that I would implement going forward:
 1. Web site responsiveness - For now the website is static, therefore looks god-awful on the mobile version.  
