@@ -1,7 +1,7 @@
 # Website - last edited in Feb 2022.
 
 ### IMPORTANT - The page is not responsive, therefore it is best viewed on a desktop.
-This is my first ever attempt at making a website. Therefore, there is limited functionality and the subsidiary pages are severley lacking content. I'm really selling this well aren't I? :D
+This is my first ever attempt at making a website. Therefore, there is limited functionality and the subsidiary pages are severley lacking content. - I'm really selling this well aren't I? :D
 
 Link to website: https://thebeebop.github.io/Website/
 
