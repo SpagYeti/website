@@ -1,8 +1,8 @@
-# Fan-themed Website for The 'WITCHER 3 VIDEO GAME'
-The website is a 'fan-site' dedicated to the overwhelmingly successful video game: The witcher 3.
+# Website
 
-### IMPORTANT!
-This is my first ever attempt of making a website. Therefore, there is limited functionality and the subsidiary pages are severley lacking content.
+### IMPORTANT - The page is not responsive, therefore it is best viewed on a desktop.
+This is my first ever attempt at making a website. Therefore, there is limited functionality and the subsidiary pages are severley lacking content.
+
 Link to website: https://thebeebop.github.io/Website/
 
 # Things that I would implement going forward:
