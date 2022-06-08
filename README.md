@@ -8,3 +8,4 @@ Link to website: https://thebeebop.github.io/Website/
 # Things that I would implement going forward:
 1. Web site responsiveness - For now the website is static, therefore looks god-awful on the mobile version.  
 2. More detailed site pages - For now the the secondary web pages are severley lacking content.
+3. Use of semantic HTML to eradicate the current headache inducing use of a div soup.  
